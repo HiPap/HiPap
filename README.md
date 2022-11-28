@@ -1,6 +1,11 @@
-### Hi! Welcome to my page!👋
+<h1>About me!<h1>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HiPap&show_icons=true&theme=synthwave)
+- I am learning: Ruby
+- Interests:Video Games, Coding, Math.
+- Currently working on my webhook spammer!
+<br/>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiPap&layout=compact)](https://github.com/HiPap/github-readme-stats)
+## My Projects!
+<a href="https://github.com/HiPap/retro-x-webhookspammer">Retro X with kelpdude89 </a>
+<a href= "https://github.com/HiPap/hilinux">hilinux </a>
+<br/>
