@@ -1,7 +1,7 @@
 ## About me!
 🖥️Programming Languages: Python
 <br/>
-📚Currently learning: Ruby
+📚Currently learning: JavaScript
 <br/>
 💡Interests: Math, Video Games, Programming!
 <br/>
