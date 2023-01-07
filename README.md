@@ -3,7 +3,7 @@
 <br/>
 📚Currently learning: JavaScript
 <br/>
-💡Interests: Math, Video Games, Programming!
+💡Interests: Math, Video Games, Programming, Chess!
 <br/>
 Currently working on Retro X!
 <br/>
