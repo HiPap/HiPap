@@ -19,12 +19,9 @@ Currently working on Retro X!
 Discord: zre#6178
 <br/>
 
-<br/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiPap&layout=compact)
-<br/>
+## Programming Languages I use
 
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HiPap&show_icons=true&theme=synthwave)
+ 
 <br/>
