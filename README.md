@@ -2,6 +2,7 @@
 🖥️Programming Languages: Python
 <br/>
 📚Currently learning: JavaScript, C
+<br/>
 💡Interests: Math, Chess, Video Games and Programming!
 
 
