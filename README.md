@@ -2,18 +2,7 @@
 🖥️Programming Languages: Python
 <br/>
 📚Currently learning: JavaScript, C
-<br/>
-💡Interests: Math, Video Games, Programming, Chess and Cybersecurity!
-<br/>
-Currently working on Retro X!
-<br/>
 
-
-## My Projects!
-<a href="https://github.com/HiPap/retro-x-webhookspammer">Retro X with kelpdude89 </a>
-<br/>
-<a href="https://github.com/HiPap/hilinux">hilinux </a>
-<br/>
 
 ## Programming Languages
 
