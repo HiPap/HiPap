@@ -1,9 +1,9 @@
 ## About me!
 🖥️Programming Languages: Python
 <br/>
-📚Currently learning: JavaScript
+📚Currently learning: JavaScript, C
 <br/>
-💡Interests: Math, Video Games, Programming, Chess!
+💡Interests: Math, Video Games, Programming, Chess and Cybersecurity!
 <br/>
 Currently working on Retro X!
 <br/>
