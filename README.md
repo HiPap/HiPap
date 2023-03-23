@@ -15,10 +15,6 @@ Currently working on Retro X!
 <a href="https://github.com/HiPap/hilinux">hilinux </a>
 <br/>
 
-## Contact me!
-Discord: zre#6178
-<br/>
-
 ## Programming Languages
 
 <br/>
