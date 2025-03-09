@@ -1,7 +1,7 @@
 ## About me!
-🖥️Programming Languages: Python
+🖥️Programming Languages: Python, Lua, C
 <br/>
-📚Currently learning: JavaScript, C
+📚Currently learning: JavaScript
 <br/>
 💡Interests: Math, Chess, Video Games and Programming!
 
