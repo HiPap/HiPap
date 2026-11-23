@@ -26,11 +26,6 @@ I’m interested in quantitative finance, software development, and the ideas be
   <img src="https://skillicons.dev/icons?i=python,c,lua,js&theme=dark" alt="Python, C, Lua, and JavaScript" />
 </div>
 
-## Current focus
-
-🚧 **Python market-data pipeline**
-
-I’m exploring how to fetch historical market data with `yfinance`, save it to CSV, and build the project into a more reliable, reusable tool.
 
 ## Selected projects
 
