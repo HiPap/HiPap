@@ -11,9 +11,6 @@
 
 ---
 
-## What I’m working on
-
-🚧 **Python market-data pipeline** — exploring how to collect and store market data with `yfinance` and CSV.
 
 ## Selected projects
 
